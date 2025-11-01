@@ -1,1 +1,1 @@
-print("division:",10/6)
+print("result of division:", 10/6)
